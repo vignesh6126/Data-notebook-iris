@@ -28,7 +28,7 @@ This Google Colab notebook demonstrates basic exploratory data analysis (EDA) on
 
 You can open the notebook directly in Google Colab:
 
-👉 **[Open in Colab](https://colab.research.google.com/drive/19yB3LkREChnIIPWi2X0Da2fPiSqfW4sz#scrollTo=J5LX23h7wFjr)**
+👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19yB3LkREChnIIPWi2X0Da2fPiSqfW4sz)
 
 Or run locally using the following steps:
 
@@ -57,14 +57,6 @@ pip install pandas matplotlib
 
 ### ✅ Step 3: Plot Histograms
 - Distribution of each numeric feature plotted using `matplotlib`
-
----
-
-## 📷 Output Previews
-
-### Sample Histogram:
-
-![Histogram Example](https://matplotlib.org/stable/_images/sphx_glr_histogram_001.png)
 
 ---
 
