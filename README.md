@@ -75,13 +75,3 @@ pip install pandas matplotlib
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 ---
-
-## 🧑‍💻 Author
-
-**Vignesh G**
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
